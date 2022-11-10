@@ -24,22 +24,20 @@ https://clokify.netlify.app
 
 # Website Preview
 •	Landing Page<br>
-
+ <img src='./Clockfy_clone/emages/homepage.png'/>
 <br> <br>
 •	Features Page <br>
-
+<img src='./Clockfy_clone/emages/features.png'/>
 <br> <br>
 •	Downloads Page <br>
-
+<img src='./Clockfy_clone/emages/dounload.png'/>
 <br> <br>
 •	Sign Up <br>
-
+<img src='./Clockfy_clone/emages/signup.png'/>
 <br> <br>
 •	Login <br>
-
+<img src='./Clockfy_clone/emages/login.png'/>
 <br> <br>
-
-•	Time Trackers Page <br>
 
 <br> <br>
 # Thank You
